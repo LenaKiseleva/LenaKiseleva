@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 ![](https://api.visitorbadge.io/api/VisitorHit?user=LenaKiselevaf&repo=LenaKiseleva&countColor=%237B1E7A)
+
 
 <!--
 **LenaKiseleva/LenaKiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
